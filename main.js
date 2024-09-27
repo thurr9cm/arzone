@@ -6,7 +6,7 @@ function areaQuadrado (lado) {
     return lado **2;
 }
 console.log (areaQuadrado(6));
-let media= function (media) {
-    return 1+2+3/3;
+let media= function (num1, num2, num3, num3) {
+    return num1+num2+num3/num3;
 }
-console.log (2)
+console.log 
